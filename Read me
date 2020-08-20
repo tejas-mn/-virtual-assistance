@@ -1,0 +1,15 @@
+The virtual assistance program executes user query like
+Running applications ,programs,files.
+It can also perform
+shutdown
+restart
+Log off operations
+
+It is written using only pyttsx33 module and os module.
+It uses concepts like lists,string concatenation,loops,decission constucts
+..
+It also includes google search ,youtube search,sound cloud to browse
+your favourite movies,music..etc
+
+The program showcases how lists can be used to check for similarities in user's query
+It also improves readability, and easy to debug.
