@@ -15,6 +15,7 @@ The program showcases how lists can be used to check for similarities in user's 
 It also improves readability, and easy to debug.
 
 Note all three programs:help.py,listofprograms.py and virtual_assistance.py should be in same folder!!!
+virtual_assistance.py is the main program to be executed!!!
 
 Thanks to IIEC and especially Vimal Sir and all their team
 for providing knowledge on python.
